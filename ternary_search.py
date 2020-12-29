@@ -1,5 +1,5 @@
 # it is divide and conquer algorithm
-# it is similar to the binary search where wwe divide array in 2 part but here we divide into three part
+# it is similar to the binary search where we divide array in two parts but here we divide array into three part.
 
 def ternary_search(l,r,key,arr):
     if (r>=l):
